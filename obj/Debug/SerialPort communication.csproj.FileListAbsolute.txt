@@ -1,0 +1,9 @@
+G:\Desktop\Program\CSharp\SerialPort communication\bin\Debug\SerialPort communication.exe.config
+G:\Desktop\Program\CSharp\SerialPort communication\bin\Debug\SerialPort communication.exe
+G:\Desktop\Program\CSharp\SerialPort communication\bin\Debug\SerialPort communication.pdb
+G:\Desktop\Program\CSharp\SerialPort communication\obj\Debug\SerialPort communication.csprojAssemblyReference.cache
+G:\Desktop\Program\CSharp\SerialPort communication\obj\Debug\SerialPort_communication.MainForm.resources
+G:\Desktop\Program\CSharp\SerialPort communication\obj\Debug\SerialPort_communication.Properties.Resources.resources
+G:\Desktop\Program\CSharp\SerialPort communication\obj\Debug\SerialPort communication.csproj.GenerateResource.cache
+G:\Desktop\Program\CSharp\SerialPort communication\obj\Debug\SerialPort communication.exe
+G:\Desktop\Program\CSharp\SerialPort communication\obj\Debug\SerialPort communication.pdb
