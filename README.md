@@ -1,2 +1,2 @@
 # SerialPort_learning
-A simple program in learning SerialPort communication
+计算机网络课程的一个实验
